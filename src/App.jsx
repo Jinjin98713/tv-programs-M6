@@ -1,7 +1,7 @@
 import data from "./assets/tv-programs.json";
 import logoM6 from "./assets/Logo_M6.png";
 import "./App.css";
-import Section from "../Section";
+import Section from "./Section";
 
 function App() {
   return (
